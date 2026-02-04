@@ -1,3 +1,6 @@
+## ⚠️ THIS IS A SCAM REPOSITORY, PLEASE DO NOT RUN IT ⚠️
+Here is the full story https://www.linkedin.com/posts/stefanoborzi_hi-everyone-sometimes-i-think-its-good-activity-7424887278684147712-k9gB
+
 # Getting Started - NFT Campaign Platform
 
 ## Prerequisites
